@@ -1,8 +1,8 @@
 class Crondesk < Formula
   desc "Display command output on your desktop"
   homepage "https://github.com/sorbits/crondesk"
-  url "https://github.com/sorbits/crondesk/archive/v1.0.tar.gz"
-  sha256 "70780981c0d7974f15b855addab43bb00ff5dd4268ac9c67b7c21cde6f6413f6"
+  url "https://github.com/sorbits/crondesk/archive/v1.0.1.tar.gz"
+  sha256 "776213bbb7668e84bc85522d5480a0246026c158ce45dcd144e89e3edb2093d5"
   head "https://github.com/sorbits/crondesk.git"
 
   def install
